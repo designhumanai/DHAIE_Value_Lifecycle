@@ -5,7 +5,7 @@ Copyright © Viktor Savitskiy, 1995–2026
 
 # DHAIE Value Lifecycle
 
-**🌐 Language:** English | [Русский](#)
+**🌐 Language:** English | [Русский](./README.ru.md)
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Status](https://img.shields.io/badge/Status-Active_Research-orange?style=for-the-badge)]()
